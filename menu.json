@@ -1,51 +1,69 @@
 {
   "menu": [
     {
-      "label": "Tv ao Vivo",
+      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]",
       "icon": "icons/tv.png",
+      "fanart": "fanart/tv.jpg",
+      "description": "Assista canais de TV ao vivo e conteúdos gratuitos de diferentes fontes.",
       "submenus": [
-        { "label": "Canais", "action": "live_channels" },
-        { "label": "Pluto TV", "action": "pluto_tv" }
+        {
+          "label": "Canais",
+          "action": "live_channels",
+          "icon": "icons/live.png"
+        },
+        {
+          "label": "Pluto TV",
+          "action": "pluto_tv",
+          "icon": "icons/pluto.png"
+        }
       ]
     },
     {
-      "label": "Filmes",
+      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]",
       "icon": "icons/movies.png",
+      "fanart": "fanart/movies.jpg",
+      "description": "Explore lançamentos, clássicos e os filmes mais bem avaliados.",
       "submenus": [
-        { "label": "Pesquisar", "action": "search_movies" },
-        { "label": "Lançamentos", "action": "latest_movies" },
-        { "label": "Próximos lançamentos", "action": "upcoming_movies" },
-        { "label": "Gêneros", "action": "genres_movies" },
-        { "label": "Melhor Avaliados", "action": "top_rated_movies" },
-        { "label": "Todos", "action": "all_movies" }
+        { "label": "Pesquisar", "action": "search_movies", "icon": "icons/search.png" },
+        { "label": "Lançamentos", "action": "latest_movies", "icon": "icons/latest.png" },
+        { "label": "Próximos lançamentos", "action": "upcoming_movies", "icon": "icons/upcoming.png" },
+        { "label": "Gêneros", "action": "genres_movies", "icon": "icons/genres.png" },
+        { "label": "Melhor Avaliados", "action": "top_rated_movies", "icon": "icons/top.png" },
+        { "label": "Todos", "action": "all_movies", "icon": "icons/all.png" }
       ]
     },
     {
-      "label": "Séries",
+      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]",
       "icon": "icons/tvseries.png",
+      "fanart": "fanart/tvseries.jpg",
+      "description": "Séries de todos os gêneros, dos lançamentos aos grandes sucessos.",
       "submenus": [
-        { "label": "Lançamentos", "action": "latest_tv" },
-        { "label": "Próximos lançamentos", "action": "upcoming_tv" },
-        { "label": "Gêneros", "action": "genres_tv" },
-        { "label": "Melhor Avaliados", "action": "top_rated_tv" },
-        { "label": "Todos", "action": "all_tv" }
+        { "label": "Lançamentos", "action": "latest_tv", "icon": "icons/latest.png" },
+        { "label": "Próximos lançamentos", "action": "upcoming_tv", "icon": "icons/upcoming.png" },
+        { "label": "Gêneros", "action": "genres_tv", "icon": "icons/genres.png" },
+        { "label": "Melhor Avaliados", "action": "top_rated_tv", "icon": "icons/top.png" },
+        { "label": "Todos", "action": "all_tv", "icon": "icons/all.png" }
       ]
     },
     {
-      "label": "Animes",
+      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]",
       "icon": "icons/anime.png",
+      "fanart": "fanart/anime.jpg",
+      "description": "Encontre lançamentos e todos os animes disponíveis.",
       "submenus": [
-        { "label": "Pesquisar", "action": "search_anime" },
-        { "label": "Lançamentos", "action": "latest_anime" },
-        { "label": "Todos", "action": "all_anime" }
+        { "label": "Pesquisar", "action": "search_anime", "icon": "icons/search.png" },
+        { "label": "Lançamentos", "action": "latest_anime", "icon": "icons/latest.png" },
+        { "label": "Todos", "action": "all_anime", "icon": "icons/all.png" }
       ]
     },
     {
-      "label": "Desenhos",
+      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]",
       "icon": "icons/cartoons.png",
+      "fanart": "fanart/cartoons.jpg",
+      "description": "Catálogo de desenhos animados clássicos e atuais.",
       "submenus": [
-        { "label": "Pesquisar", "action": "search_cartoons" },
-        { "label": "Todos", "action": "all_cartoons" }
+        { "label": "Pesquisar", "action": "search_cartoons", "icon": "icons/search.png" },
+        { "label": "Todos", "action": "all_cartoons", "icon": "icons/all.png" }
       ]
     }
   ]
