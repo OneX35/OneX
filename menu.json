@@ -1,70 +1,52 @@
-{
-  "menu": [
-    {
-      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]TV AO VIVO[/COLOR][/B]",
-      "icon": "icons/tv.png",
-      "fanart": "fanart/tv.jpg",
-      "description": "Assista canais de TV ao vivo e conteúdos gratuitos de diferentes fontes.",
-      "submenus": [
-        {
-          "label": "Canais",
-          "action": "live_channels",
-          "icon": "icons/live.png"
-        },
-        {
-          "label": "Pluto TV",
-          "action": "pluto_tv",
-          "icon": "icons/pluto.png"
-        }
-      ]
-    },
-    {
-      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]FILMES[/COLOR][/B]",
-      "icon": "icons/movies.png",
-      "fanart": "fanart/movies.jpg",
-      "description": "Explore lançamentos, clássicos e os filmes mais bem avaliados.",
-      "submenus": [
-        { "label": "Pesquisar", "action": "search_movies", "icon": "icons/search.png" },
-        { "label": "Lançamentos", "action": "latest_movies", "icon": "icons/latest.png" },
-        { "label": "Próximos lançamentos", "action": "upcoming_movies", "icon": "icons/upcoming.png" },
-        { "label": "Gêneros", "action": "genres_movies", "icon": "icons/genres.png" },
-        { "label": "Melhor Avaliados", "action": "top_rated_movies", "icon": "icons/top.png" },
-        { "label": "Todos", "action": "all_movies", "icon": "icons/all.png" }
-      ]
-    },
-    {
-      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]",
-      "icon": "icons/tvseries.png",
-      "fanart": "fanart/tvseries.jpg",
-      "description": "Séries de todos os gêneros, dos lançamentos aos grandes sucessos.",
-      "submenus": [
-        { "label": "Lançamentos", "action": "latest_tv", "icon": "icons/latest.png" },
-        { "label": "Próximos lançamentos", "action": "upcoming_tv", "icon": "icons/upcoming.png" },
-        { "label": "Gêneros", "action": "genres_tv", "icon": "icons/genres.png" },
-        { "label": "Melhor Avaliados", "action": "top_rated_tv", "icon": "icons/top.png" },
-        { "label": "Todos", "action": "all_tv", "icon": "icons/all.png" }
-      ]
-    },
-    {
-      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]ANIMES[/COLOR][/B]",
-      "icon": "icons/anime.png",
-      "fanart": "fanart/anime.jpg",
-      "description": "Encontre lançamentos e todos os animes disponíveis.",
-      "submenus": [
-        { "label": "Pesquisar", "action": "search_anime", "icon": "icons/search.png" },
-        { "label": "Lançamentos", "action": "latest_anime", "icon": "icons/latest.png" },
-        { "label": "Todos", "action": "all_anime", "icon": "icons/all.png" }
-      ]
-    },
-    {
-      "label": "[B][COLOR lime]●[/COLOR] [COLOR white]DESENHOS[/COLOR][/B]",
-      "icon": "icons/cartoons.png",
-      "fanart": "fanart/cartoons.jpg",
-      "description": "Catálogo de desenhos animados clássicos e atuais.",
-      "submenus": [
-        { "label": "Pesquisar", "action": "search_cartoons", "icon": "icons/search.png" },
-        { "label": "Todos", "action": "all_cartoons", "icon": "icons/all.png" }
-      ]
-    }
-  ]
-}
+[
+  {
+    "tmdb": 603,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/matrix.mp4"
+  },
+  {
+    "tmdb": 155,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/darkknight.mp4"
+  },
+  {
+    "tmdb": 550,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/fightclub.mp4"
+  },
+  {
+    "tmdb": 680,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/pulpfiction.mp4"
+  },
+  {
+    "tmdb": 27205,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/inception.mp4"
+  },
+  {
+    "tmdb": 299534,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/avengers_endgame.mp4"
+  },
+  {
+    "tmdb": 497,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/greenmile.mp4"
+  },
+  {
+    "tmdb": 1891,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/lotr_fellowship.mp4"
+  },
+  {
+    "tmdb": 122,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/lordoftherings_two_towers.mp4"
+  },
+  {
+    "tmdb": 13,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/forestgump.mp4"
+  }
+]
