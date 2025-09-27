@@ -1,52 +1,23 @@
-{
-  "menu": [
-    {
-      "label": "Tv ao Vivo",
-      "icon": "icons/tv.png",
-      "submenus": [
-        { "label": "Canais", "action": "live_channels" },
-        { "label": "Pluto TV", "action": "pluto_tv" }
-      ]
-    },
-    {
-      "label": "Filmes",
-      "icon": "icons/movies.png",
-      "submenus": [
-        { "label": "Pesquisar", "action": "search_movies" },
-        { "label": "Lançamentos", "action": "latest_movies" },
-        { "label": "Próximos lançamentos", "action": "upcoming_movies" },
-        { "label": "Gêneros", "action": "genres_movies" },
-        { "label": "Melhor Avaliados", "action": "top_rated_movies" },
-        { "label": "Todos", "action": "all_movies" }
-      ]
-    },
-    {
-      "label": "Séries",
-      "icon": "icons/tvseries.png",
-      "submenus": [
-        { "label": "Lançamentos", "action": "latest_tv" },
-        { "label": "Próximos lançamentos", "action": "upcoming_tv" },
-        { "label": "Gêneros", "action": "genres_tv" },
-        { "label": "Melhor Avaliados", "action": "top_rated_tv" },
-        { "label": "Todos", "action": "all_tv" }
-      ]
-    },
-    {
-      "label": "Animes",
-      "icon": "icons/anime.png",
-      "submenus": [
-        { "label": "Pesquisar", "action": "search_anime" },
-        { "label": "Lançamentos", "action": "latest_anime" },
-        { "label": "Todos", "action": "all_anime" }
-      ]
-    },
-    {
-      "label": "Desenhos",
-      "icon": "icons/cartoons.png",
-      "submenus": [
-        { "label": "Pesquisar", "action": "search_cartoons" },
-        { "label": "Todos", "action": "all_cartoons" }
-      ]
-    }
-  ]
-}
+[
+  {
+    "tmdb": 603,
+    "tmdb_type": "movie",
+    "title": "Matrix (forçado no JSON)",
+    "url": "https://meuserver.com/filmes/matrix.mp4"
+  },
+  {
+    "tmdb": 155,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/darkknight.mp4"
+  },
+  {
+    "tmdb": 1399,
+    "tmdb_type": "tv"
+  },
+  {
+    "title": "Link direto sem TMDB",
+    "url": "https://meuserver.com/videos/teste.mp4",
+    "thumbnail": "https://meuserver.com/img/teste.png",
+    "isFolder": false
+  }
+]
