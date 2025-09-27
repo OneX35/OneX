@@ -1,0 +1,23 @@
+[
+  {
+    "tmdb": 603,
+    "tmdb_type": "movie",
+    "title": "Matrix (forçado no JSON)",
+    "url": "https://meuserver.com/filmes/matrix.mp4"
+  },
+  {
+    "tmdb": 155,
+    "tmdb_type": "movie",
+    "url": "https://meuserver.com/filmes/darkknight.mp4"
+  },
+  {
+    "tmdb": 1399,
+    "tmdb_type": "tv"
+  },
+  {
+    "title": "Link direto sem TMDB",
+    "url": "https://meuserver.com/videos/teste.mp4",
+    "thumbnail": "https://meuserver.com/img/teste.png",
+    "isFolder": false
+  }
+]
