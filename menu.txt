@@ -5,7 +5,7 @@
       "icon": "https://meuservidor.com/icons/movies.png",
       "fanart": "https://meuservidor.com/fanart/movies.jpg",
       "description": "Explore lançamentos, clássicos e os filmes mais bem avaliados.",
-      "externallink": "https://meuservidor.com/json/filmes.json"
+      "externallink": "https://raw.githubusercontent.com/OneX35/OneX/refs/heads/main/submenus.json"
     },
     {
       "label": "[B][COLOR lime]●[/COLOR] [COLOR white]SÉRIES[/COLOR][/B]",
