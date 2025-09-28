@@ -3,22 +3,22 @@
     {
       "label": "🔎 Pesquisar",
       "icon": "https://meuservidor.com/icons/search.png",
-      "externallink": "https://meuservidor.com/json/filmes_biblioteca.json"
+      "externallink": "https://raw.githubusercontent.com/OneX35/OneX/refs/heads/main/menu.json"
     },
     {
       "label": "📅 Lançamentos",
       "icon": "https://meuservidor.com/icons/latest.png",
-      "externallink": "https://meuservidor.com/json/filmes_biblioteca.json"
+      "externallink": "https://raw.githubusercontent.com/OneX35/OneX/refs/heads/main/menu.json"
     },
     {
       "label": "🎭 Gêneros",
       "icon": "https://meuservidor.com/icons/genres.png",
-      "externallink": "https://meuservidor.com/json/filmes_biblioteca.json"
+      "externallink": "https://raw.githubusercontent.com/OneX35/OneX/refs/heads/main/menu.json"
     },
     {
       "label": "📁 Todos",
       "icon": "https://meuservidor.com/icons/all.png",
-      "externallink": "https://meuservidor.com/json/filmes_biblioteca.json"
+      "externallink": "https://raw.githubusercontent.com/OneX35/OneX/refs/heads/main/menu.json"
     }
   ]
 }
