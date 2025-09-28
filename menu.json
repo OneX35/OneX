@@ -1,18 +1,18 @@
 [
   {
     "title": "Filmes",
-    "url": "https://github.com/OneX35/OneX/raw/refs/heads/main/Filmes.json"
+    "url": "https://raw.githubusercontent.com/OneX35/OneX/main/Filmes.json"
   },
   {
     "title": "Séries",
-    "url": "https://github.com/OneX35/OneX/raw/refs/heads/main/Filmes.json"
+    "url": "https://raw.githubusercontent.com/OneX35/OneX/main/Series.json"
   },
   {
     "title": "Animes",
-    "url": "https://github.com/OneX35/OneX/raw/refs/heads/main/Filmes.json"
+    "url": "https://raw.githubusercontent.com/OneX35/OneX/main/Animes.json"
   },
   {
     "title": "Documentários",
-    "url": "https://github.com/OneX35/OneX/raw/refs/heads/main/Filmes.json"
+    "url": "https://raw.githubusercontent.com/OneX35/OneX/main/Documentarios.json"
   }
 ]
