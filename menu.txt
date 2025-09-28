@@ -1,5 +1,5 @@
-TV AO VIVO|https://raw.githubusercontent.com/SeuUser/SeuRepo/main/bibliotecas/tv.json|icons/tv.png|fanart/tv.jpg|Assista canais de TV ao vivo e conteúdos gratuitos
-Filmes|https://raw.githubusercontent.com/SeuUser/SeuRepo/main/bibliotecas/filmes.json|icons/movies.png|fanart/movies.jpg|Explore lançamentos, clássicos e os filmes mais bem avaliados
+TV AO VIVO|https://raw.githubusercontent.com/OneX35/OneX/refs/heads/main/menu.json| canais de TV ao vivo e conteúdos gratuitos
+Filmes|https://raw.githubusercontent.com/OneX35/OneX/refs/heads/main/menu.json|icons/movies.png|fanart/movies.jpg|Explore lançamentos, clássicos e os filmes mais bem avaliados
 Séries|https://raw.githubusercontent.com/SeuUser/SeuRepo/main/bibliotecas/series.json|icons/tvseries.png|fanart/tvseries.jpg|Séries de todos os gêneros, dos lançamentos aos grandes sucessos
 Animes|https://raw.githubusercontent.com/SeuUser/SeuRepo/main/bibliotecas/animes.json|icons/anime.png|fanart/anime.jpg|Encontre lançamentos e todos os animes disponíveis
 Desenhos|https://raw.githubusercontent.com/SeuUser/SeuRepo/main/bibliotecas/desenhos.json|icons/cartoons.png|fanart/cartoons.jpg|Catálogo de desenhos animados clássicos e atuais
