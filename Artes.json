@@ -1,1 +1,32 @@
-
+{
+  "principal": {
+    "todasasseries": {
+      "thumb": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/thumbs/todas.jpg",
+      "fanart": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/fanarts/todas_bg.jpg"
+    },
+    "pesquisar": {
+      "thumb": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/thumbs/search.jpg",
+      "fanart": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/fanarts/search_bg.jpg"
+    },
+    "porano": {
+      "thumb": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/thumbs/ano.jpg",
+      "fanart": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/fanarts/ano_bg.jpg"
+    },
+    "porestudio": {
+      "thumb": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/thumbs/estudio.jpg",
+      "fanart": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/fanarts/estudio_bg.jpg"
+    },
+    "porgenero": {
+      "thumb": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/thumbs/genero.jpg",
+      "fanart": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/fanarts/genero_bg.jpg"
+    },
+    "novastemporadas": {
+      "thumb": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/thumbs/temporadas.jpg",
+      "fanart": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/fanarts/temporadas_bg.jpg"
+    },
+    "lancamentos": {
+      "thumb": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/thumbs/lancamentos.jpg",
+      "fanart": "https://raw.githubusercontent.com/tonystarkaddons/assets/main/fanarts/lancamentos_bg.jpg"
+    }
+  }
+}
